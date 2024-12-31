@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734984984 source:d:\myprojects\studentgrademanagementsystem\studentgrademanagementsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
